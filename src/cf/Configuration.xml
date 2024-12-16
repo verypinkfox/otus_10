@@ -2592,6 +2592,7 @@
 			<Constant>УдалитьЛогинДоступаКСервисуMorpher</Constant>
 			<Constant>УдалитьНастройкиВходаПользователей</Constant>
 			<Constant>Константа1</Constant>
+			<Constant>Константа2</Constant>
 			<CommonForm>_ДемоМоиНастройки</CommonForm>
 			<CommonForm>_ДемоПолезныеСсылки</CommonForm>
 			<CommonForm>_ДемоПримечание</CommonForm>
