@@ -2591,6 +2591,7 @@
 			<Constant>ЭтоАвтономноеРабочееМесто</Constant>
 			<Constant>УдалитьЛогинДоступаКСервисуMorpher</Constant>
 			<Constant>УдалитьНастройкиВходаПользователей</Constant>
+			<Constant>Константа1</Constant>
 			<CommonForm>_ДемоМоиНастройки</CommonForm>
 			<CommonForm>_ДемоПолезныеСсылки</CommonForm>
 			<CommonForm>_ДемоПримечание</CommonForm>
